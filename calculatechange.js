@@ -1,4 +1,4 @@
-// This function named calculateChange that takes in a total amount of a bill and the total cash given to pay that bill. 
+// This function named calculateChange takes in a total amount of a bill and the total cash given to pay that bill. 
 // It returns a new object that describes the total amount of change for the cashier to give back.
 
 const calculateChange = function(total, cash) {
