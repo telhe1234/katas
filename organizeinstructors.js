@@ -1,3 +1,6 @@
+// This function named organizeInstructors receives an array of instructor objects,
+//  and will return a new object.
+
 const organizeInstructors = function(instructors) {
   let organizedInstructorsObj = {};
   
