@@ -1,3 +1,6 @@
+// This function named makeCase receives an input string and one or more casing options.
+// It returns a new string that is formatted based on casing options.
+
 const camelCase = function(input) {
   let newString = [...input];
   for(let i = 0; i < input.length; i++){
